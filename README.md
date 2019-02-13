@@ -11,7 +11,7 @@ More information about docker (what it is, how to use, etc.) is available from h
 
 - Who is it for?<br>
 For those who want to try out ISCE but do not want go through installation procedure.<br>
-For those who is considering about running ISCE on cloud service. (Most all major cloud services support docker)
+For those who is considering about running ISCE on cloud service. (almost every cloud services support docker)
 
 - Dependency<br>
 **NONE**. Just download the Dockerfile and generate the docker image.<br>
