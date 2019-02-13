@@ -2,7 +2,7 @@ DOCKERISCE
 ----------
 
 
-- Functionality
+- Functionality<br>
 This Dockerfile is for building a docker image for running ISCE in container.<br>
 It automatically downloads and installs dependencies as well as the main ISCE software.
 
