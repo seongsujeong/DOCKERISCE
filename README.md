@@ -1,5 +1,5 @@
-DOCKERISCE
-----------
+DOCKERISCE: A dockerized ISCE on latest Ubuntu
+---
 
 
 - Functionality<br>
