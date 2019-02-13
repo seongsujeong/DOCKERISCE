@@ -6,8 +6,16 @@ DOCKERISCE
 This Dockerfile is for building a docker image for running ISCE in container.<br>
 It automatically downloads and installs dependencies as well as the main ISCE software.
 
-Visit https://github.com/isce-framework/isce2 for more information about ISCE.
+Visit https://github.com/isce-framework/isce2 for more information about ISCE.<br>
 More information about docker (what it is, how to use, etc.) is available from https://docs.docker.com
+
+- Who is it for?<br>
+For those who want to try out ISCE but do not want go through installation procedure.<br>
+For those who is considering about running ISCE on cloud service. (Most all major cloud services support docker)
+
+- Dependency<br>
+**NONE**. Just download the Dockerfile and generate the docker image.<br>
+The Dockerfile script is going to automatically download all necessary dependencies, build, and install them.
 
 
 - Change log<br>
