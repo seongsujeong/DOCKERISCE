@@ -15,7 +15,7 @@ For those who is considering about running ISCE on cloud service. (almost every 
 
 - Dependency<br>
 **NONE**. Just download the Dockerfile and generate the docker image.<br>
-The Dockerfile script is going to automatically download all necessary dependencies, build, and install them.
+The Dockerfile script is going to automatically download, build, and build, and install all dependencies needed to run ISCE.
 
 
 - Change log<br>
